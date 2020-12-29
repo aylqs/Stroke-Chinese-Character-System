@@ -2,6 +2,8 @@
 Adding and subtracting stroke element based on stroke Chinese character system 
 笔画汉字系统中笔画的加减运算
 
+![image](https://github.com/aylqs/Stroke-Chinese-Character-System/blob/main/1.PNG)
+
 2020/11/24  Upload the main test System
 
 2020/12/29  Upload two description files for Chinese characters. You should download these files and open from this runing application to get the characters drawing .
